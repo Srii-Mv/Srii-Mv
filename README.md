@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Srii-Mv
-- 👀 I’m interested in Learning New Technologies 
+- 👀 I’m interested in Autoamtion Testing 
 - I am From Chennai, India
 
 <!---
